@@ -1,0 +1,21 @@
+# Frequently Asked Questions
+
+### 1. Which monitoring devices do I need to install?
+
+All participants will receive the following monitoring devices. Open the NeedForHeat app, scan the QR code on the monitoring device from the app, and you will automatically see the information below and the app will also help you connect the devices to your home Wi-Fi network:
+
+- [Smart Meter Module: Installation](../../../../devices/twomes-p1-reader-firmware/installation/)
+- [Living Room Module: Installation](../../../../devices/twomes-co2-occupancy-scd41-m5coreink-firmware/installation/)
+
+### 2. How do I re-connect a monitoring device?
+
+Reconnecting a monitoring device to your Wi-Fi network may be necessary, for example, if you get a new Wi-Fi router or if the initial connection was unsuccessful. The process for re-connecting varies for each device. Click on the question mark next to the device name in the list on the NeedForHeat app screen, or scan the QR code on the device above `Info? Scan!`.
+
+You can also find this information in the frequently asked questions for the monitoring device you want to re-connect:
+
+- [Smart Meter Module: Frequently Asked Questions](../../../../devices/twomes-p1-reader-firmware/faq/)
+- [Living Room Module: Frequently Asked Questions](../../../../devices/twomes-co2-occupancy-scd41-m5coreink-firmware/faq/)
+
+### 3. Other Questions
+
+For other questions regarding the installation and activation of monitoring devices, you can contact the research helpdesk at [needforheatonderzoek@windesheim.nl](needforheatonderzoek@windesheim.nl).
