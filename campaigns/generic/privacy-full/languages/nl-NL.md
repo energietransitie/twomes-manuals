@@ -151,8 +151,7 @@ Bij vragen hierover adviseren we u om contact op te nemen met:
 
 ## Goedkeuring door Ethische Commissie Onderzoek Windesheim
 
-Het NeedForHeat onderzoek, als onderdeel van het onderzoeksproject [REDUCEDHEATCARB](https://edu.nl/gutuc), inclusief samenvatting en volledige privacyverklaring is [goedgekeurd door de Ethische
-Commissie Onderzoek van Windesheim](../assets/231121-goedkeurende-verklaring-ECO-Windesheim-REDUCEDHEATCARB.pdf).
+Het NeedForHeat onderzoek, als onderdeel van het onderzoeksproject [REDUCEDHEATCARB](https://edu.nl/gutuc), inclusief samenvatting en volledige privacyverklaring is [goedgekeurd door de Ethische Commissie Onderzoek van Windesheim](../assets/231121-goedkeurende-verklaring-ECO-Windesheim-REDUCEDHEATCARB.pdf).
 
 
 ## Wijzigingen in deze privacyverklaring
