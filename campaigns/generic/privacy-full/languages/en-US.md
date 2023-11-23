@@ -2,7 +2,7 @@
 
 ## Full version
 
-Version: November 15, 2023
+Version: November 23, 2023
 
 [→ Short summary](../../privacy/)
 
@@ -142,6 +142,10 @@ For questions about this, we advise you to contact:
   Dr.ir. Henri ter Hofte, PO Box 10090, 8000 GB Zwolle,
   <h.ter.hofte@windesheim.nl>; tel. 088 - 469 8153.
 - And/or the data processing officer at Windesheim, Anita Polderdijk-Rijntjes, PO Box 10090, 8000 GB Zwolle, fg@windesheim.nl; tel. 088 - 469 9969.
+
+## Approval by the Ethical Research Committee of Windesheim
+
+The NeedForHeat research, as part of the research project [REDUCEDHEATCARB](https://edu.nl/gutuc), including the summary and complete privacy statement, has been [approved by the Ethical Research Committee of Windesheim](../assets/231121-goedkeurende-verklaring-ECO-Windesheim-REDUCEDHEATCARB.pdf).
 
 ## Changes to this Privacy Statement
 We reserve the right to make changes to this statement. It is recommended to regularly consult this statement to stay informed about these changes.

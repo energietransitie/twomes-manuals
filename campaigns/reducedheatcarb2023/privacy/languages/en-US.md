@@ -2,7 +2,7 @@
 
 ## Brief Summary
 
-Version November 15, 2023
+Version November 23, 2023
 
 [→ Summary](../../privacy-summary/)
 
@@ -14,4 +14,4 @@ In the NeedForHeat study and throughout the entire research project [REDUCEDHEAT
 
 Important: Outside of the research, it is not possible for others to identify the source of the data. Only Remeha, Windesheim, and Enelogic are aware of the connection between measurements and residences. The information published in reports and scientific publications does not reveal specific residences or individuals. Note: even after publication, Remeha and/or Enelogic may potentially trace the data back to your residence. If you wish to prevent this, you can request Remeha and/or Enelogic to delete the collected data after the completion of data collection.
 
-For more information, you can also refer to the [summary](../../privacy-summary/) and [full privacy policy](../../privacy-full/).
+The research has been [approved by the Ethical Research Committee of Windesheim](../assets/231121-goedkeurende-verklaring-ECO-Windesheim-REDUCEDHEATCARB.pdf). For more information, you can also refer to the [summary](../../privacy-summary/) and [full privacy policy](../../privacy-full/).

@@ -2,7 +2,7 @@
 
 ## Summary
 
-Version November 15, 2023
+Version November 23, 2023
 
 [→ Short Summary](../../privacy/)
 
@@ -31,4 +31,4 @@ To prevent Remeha and/or Enelogic from linking the publicly published data to yo
 
 If you have any questions about this privacy policy, you can contact the lead researcher of this study and/or the Data Protection Officer at Windesheim.
 
-For more information, refer to the [full privacy policy](../../privacy-full/).
+The research has been [approved by the Ethical Research Committee of Windesheim](../assets/231121-goedkeurende-verklaring-ECO-Windesheim-REDUCEDHEATCARB.pdf). For more information, refer to the [full privacy policy](../../privacy-full/).
