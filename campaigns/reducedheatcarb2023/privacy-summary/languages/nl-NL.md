@@ -2,7 +2,7 @@
 
 ## Samenvatting
 
-versie 15 november 2023
+versie 23 november 2023
 
 [→ korte samenvatting](../../privacy/)
 
@@ -31,4 +31,4 @@ Wilt u voorkomen dat Remeha en/of Enelogic de te publiceren open data kunnen lin
 
 Als u vragen heeft over deze privacyverklaring kunt u terecht bij de hoofdonderzoeker van dit onderzoek en/of bij de Functionaris Gegevensverwerking van Windesheim.
 
-Meer informatie kunt u vinden in de [volledige privacyverklaring](../../privacy-full/).
+Het onderzoek is [goedgekeurd door de Ethische Commissie Onderzoek van Windesheim](../assets/231121-goedkeurende-verklaring-ECO-Windesheim-REDUCEDHEATCARB.pdf). Meer informatie kunt u vinden in de [volledige privacyverklaring](../../privacy-full/).
