@@ -2,7 +2,7 @@
 
 ## Volledige versie
 
-versie 15 november 2023
+versie 23 november 2023
 
 [→ korte samenvatting](../../privacy/)
 
@@ -148,6 +148,12 @@ Bij vragen hierover adviseren we u om contact op te nemen met:
   dr.ir. Henri ter Hofte, Postbus 10090, 8000 GB Zwolle, 
   <h.ter.hofte@windesheim.nl>; tel. 088 - 469 8153.
 - en/of de functionaris gegevensverwerking van Windesheim, Anita Polderdijk-Rijntjes, Postbus 10090, 8000 GB Zwolle, <fg@windesheim.nl>; tel. 088 - 469 9969.
+
+## Goedkeuring door Ethische Commissie Onderzoek Windesheim
+
+Het NeedForHeat onderzoek, als onderdeel van het onderzoeksproject [REDUCEDHEATCARB](https://edu.nl/gutuc), inclusief samenvatting en volledige privacyverklaring is goedgekeurd door de Ethische
+Commissie Onderzoek van Windesheim.
+
 
 ## Wijzigingen in deze privacyverklaring
 Wij behouden ons het recht voor om wijzigingen aan te brengen in deze verklaring. Het verdient aanbeveling om deze verklaring geregeld te raadplegen, zodat u van deze wijzigingen op de hoogte bent.
