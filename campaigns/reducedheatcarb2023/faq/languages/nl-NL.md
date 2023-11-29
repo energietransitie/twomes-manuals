@@ -8,6 +8,7 @@ Alle proefpersonen ontvangen twee meetapparaatjes. Open de NeedForheat app, scan
 - [Woonkamermodule: installatie](../../../../devices/twomes-co2-occupancy-scd41-m5coreink-firmware/installation/)
 
 Ook wordt u gevraagd om één online databron te koppelen:
+
 - [Enelogic: installatie](../../../../devices/enelogic/installation/)
 
 ### 2. Hoe koppel ik een meetapparaatje opnieuw?
@@ -20,7 +21,7 @@ Je kunt deze informatie ook vinden in de veelgestelde vragen voor het meetappara
 
 - [Slimmemetermodule: veelgestelde vragen](../../../../devices/twomes-p1-reader-firmware/faq/)
 - [Woonkamermodule: veelgestelde vragen](../../../../devices/twomes-co2-occupancy-scd41-m5coreink-firmware/faq/)
-- [Enelogic: Veelgestelde Vragen](../../../../devices/enelogic/faq/)
+- [Enelogic: veelgestelde Vragen](../../../../devices/enelogic/faq/)
  
 ### 4. Overige Vragen
 
