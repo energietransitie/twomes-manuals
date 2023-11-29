@@ -8,6 +8,7 @@ All participants will receive two measurement devices. Open the NeedForHeat app,
 - [Living Room Module: Installation](../../../../devices/twomes-co2-occupancy-scd41-m5coreink-firmware/installation/)
 
 In addition, you are asked to connect one online data source:
+
 - [Enelogic: Installation](../../../../devices/enelogic/installation/)
 
 ### 2. How do I re-connect a measurement device?
