@@ -12,6 +12,10 @@ Frequently asked information about the Enelogic online data souce.
 - Daily readings up to 40 days ago
 - Monthly readings up to 13 months ago
 
+## 2. How can I check if the data collection is working properly?
+
+Look in the NeedForHeat app under the 'Smart meter via Enelogic' data source. If this is within the last 2 days (48 hours), everything is functioning correctly. You'll notice this immediately if you've just added Enelogic to the app. Once you've linked your smart meter to your Enelogic account, it usually takes 1.5 days for Enelogic to receive data for the first time. After that, the research server retrieves new data from your Enelogic account once a day.
+
 ## What if I have other questions or comments?
 
 Then, please send an email to the helpdesk of the NeedForHeat research at [needforheatresearch@windesheim.nl](needforheatresearch@windesheim.nl).
