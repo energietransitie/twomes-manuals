@@ -12,9 +12,12 @@
 - Dagstanden tot 40 dagen geleden
 - Maandstanden tot 13 maanden geleden
 
+Als je na dit nog vragen hebt, zorg er dan voor dat je de FAQ bekijkt door op het cirkelvormige vraagtekenpictogram in Databronnen te drukken.
+
 # Installatie
 
 ## 1. Maak een Enelogic account
+Zorg er alsjeblieft voor dat u terugkeert naar de NeedForHeat app nadat je Enelogic hebt ingesteld in Stap 1 en Stap 2 om het verbinden van Enelogic met de NeedForHeat app af te ronden.
 
 (Als u al een Enelogic account heeft, kunt u deze stap overslaan.)
 

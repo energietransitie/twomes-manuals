@@ -12,3 +12,4 @@ This data is made available under the [CC BY 4.0](./LICENSE.md) by the [Research
 Authors:
 * Henri ter Hofte · [@henriterhofte](https://github.com/henriterhofte) · Twitter [@HeNRGi](https://twitter.com/HeNRGi)
 * Nick van Ravenzwaaij · [@n-vr](https://github.com/n-vr)
+* Harris Mesic - [@Labhatorian](https://github.com/Labhatorian)

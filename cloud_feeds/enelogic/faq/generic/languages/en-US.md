@@ -16,6 +16,27 @@ Frequently asked information about the Enelogic online data souce.
 
 Look in the NeedForHeat app under the 'Smart meter via Enelogic' data source. If this is within the last 2 days (48 hours), everything is functioning correctly. You'll notice this immediately if you've just added Enelogic to the app. Once you've linked your smart meter to your Enelogic account, it usually takes 1.5 days for Enelogic to receive data for the first time. After that, the research server retrieves new data from your Enelogic account once a day.
 
+### 2.1. Monitoring in DataSources
+You can also check out the status of Enelogic in the DataSources screen, the circle next to Enelogic serve as a means to monitor the uploads of each device. Below is a brief explanation of each circle's significance and the corresponding actions you may need to take:
+
+#### 2.1.1. Status Green - Everything is normal
+The DataSource is uploading as expected with no issues, indicated by the green circle and icon. \
+The circle also displays the countdown to the next upload, showing hours and minutes.
+
+![Status Green](../assets/en-US/good.PNG)
+
+#### 2.1.2. Status Orange/Yellow - Uploads are delayed
+If the last upload from the DataSource is delayed, the circle and icon turns orange/yellow, signaling a "Late" status. \
+While this may not warrant immediate concern, you may attempt to reset the DataSource to fix the delay.
+
+![Status Orange/Yellow](../assets/en-US/late.PNG)
+
+#### 2.1.3. Status Red - Severe delay in uploads
+When the DataSource fails to upload for an extended period, immediate action is required. \
+The red circle indicates an "Offline" status. In this situation, try resetting the DataSource or contact the helpdesk for assistance.
+
+![Status Red](../assets/en-US/offline.PNG)
+
 ## What if I have other questions or comments?
 
 Then, please send an email to the helpdesk of the NeedForHeat research at [needforheatresearch@windesheim.nl](needforheatresearch@windesheim.nl).
