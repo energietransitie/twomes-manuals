@@ -26,19 +26,19 @@ These circles serve as a means to monitor the uploads of each device. Below is a
 The DataSource is uploading as expected with no issues, indicated by the green circle and icon. \
 The circle also displays the countdown to the next upload, showing hours and minutes.
 
-(image)
+![Status Green](../assets/en-US/good.PNG)
 
 #### 3.2. Status Orange/Yellow - Uploads are delayed
 If the last upload from the DataSource is delayed, the circle and icon turns orange/yellow, signaling a "Late" status. \
 While this may not warrant immediate concern, you may attempt to reset the DataSource to fix the delay.
 
-(Image)
+![Status Orange/Yellow](../assets/en-US/late.PNG)
 
 #### 3.3. Status Red - Severe delay in uploads
 When the DataSource fails to upload for an extended period, immediate action is required. \
 The red circle indicates an "Offline" status. In this situation, try resetting the DataSource or contact the helpdesk for assistance.
 
-(Image)
+![Status Red](../assets/en-US/offline.PNG)
 
 ### 4. Where can I find answers to Frequently Asked Questions about data sources?
 

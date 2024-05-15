@@ -26,19 +26,19 @@ Deze cirkels dienen als middel om de uploads van elk apparaat te monitoren. Hier
 De DataSource uploadt zoals verwacht zonder problemen, aangegeven door de groene cirkel en pictogram. \
 De cirkel toont ook de aftelling naar de volgende upload, met vermelding van uren en minuten.
 
-(image)
+![Status Groen](../assets/nl-NL/good.PNG)
 
 #### 3.2. Status Oranje/Geel - Uploads zijn vertraagd
 Als de laatste upload van de DataSource vertraagd is, verandert de cirkel en het pictogram naar oranje/geel, wat wijst op een "Late" status. \
 Hoewel dit mogelijk geen onmiddellijke zorg vereist, kunt u proberen de DataSource te resetten om de vertraging te verhelpen.
 
-(image)
+![Status Oranje/Geel](../assets/nl-NL/late.PNG)
 
 #### 3.3. Status Rood - Ernstige vertraging bij uploads
 Wanneer de DataSource gedurende een langere periode geen uploads heeft uitgevoerd, is onmiddellijke actie vereist. \
 De rode cirkel geeft een "Offline" status aan. In deze situatie kunt u proberen de DataSource te resetten of contact opnemen met de helpdesk voor assistentie.
 
-(image)
+![Status Rood](../assets/nl-NL/offline.PNG)
 
 ### 4. Waar kan ik antwoorden vinden op veelgestelde vragen over databronnen?
 
