@@ -12,9 +12,12 @@
 - Daily readings up to 40 days ago
 - Monthly readings up to 13 months ago
 
+If you have any questions after this, make sure to check out the FAQ by pressing the circle question mark icon in DataSources.
+
 # Installation
 
 ## 1. Create an Enelogic Account
+Please make sure to return to the NeedForHeat app after setting up Enelogic in Step 1 and Step 2 to finish setting connecting Enelogic to the NeedForHeat app.
 
 (If you already have an Enelogic account, you can skip this step.)
 
