@@ -8,19 +8,23 @@ De NeedForHeat app is ontwikkeld door het [lectoraat Energietransitie](https://w
 
 Product owners:
 
-- Nick van Ravenzwaaij - [@n-vr](https://github.com/n-vr)
 - Henri ter Hofte - [@henriterhofte](https://github.com/henriterhofte) - Twitter [@HeNRGi](https://twitter.com/HeNRGi)
+- (Voormalig) Nick van Ravenzwaaij - [@n-vr](https://github.com/n-vr)
 
 Deze versie van de NeedForHeat app is mede tot stand gekomen dankzij het werk van:
+
+* Harris Mesic - [@Labhatorian](https://github.com/Labhatorian)
+* Niels Even - [@Niels995](https://github.com/Niels995)
+* Thomas Buijs - [@ThomasBuh](https://github.com/ThomasBuh)
+* Meriyem Bilgili - [@MeriyemBilgili](https://github.com/MeriyemBilgili)
+
+Dank gaat ook uit naar de ontwikkelaars van NeedForHeat en WarmteWachter, de voorloper van deze app:
 
 * Jort Driegen · [@jortdr](https://github.com/jortdr)
 * Nick Koster · [@NormalNickYT](https://github.com/NormalNickYT)
 * Robin Leuninge · [@RobinLeuninge](https://github.com/orgs/energietransitie/people/RobinLeuninge)
 * Thomas van Meer · [@CodingMoonMan](https://github.com/orgs/energietransitie/people/CodingMoonMan)
 * Tristan Jansen · [@Tristan611](https://github.com/Tristan611)
-
-Dank gaat ook uit naar de ontwikkelaars van NeedForHeat en WarmteWachter, de voorloper van deze app:
-
 * Amicia Smit · [@AmiciaSmit](https://github.com/AmiciaSmit)
 * Brian Hoen - [@lordpalf123](https://github.com/lordpalf123)
 * Jesse Brand - [@jessuhh](https://github.com/Jessuhh)
