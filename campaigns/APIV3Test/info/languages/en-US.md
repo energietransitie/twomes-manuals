@@ -2,7 +2,7 @@
 
 *N.B. test version 2023-2024 semester 2*
 
-The NeedForHeat app is developed by the [Energy Transition Research Group](https://www.windesheim.nl/onderzoek/lectoraten/energietransitie) at [Windesheim University of Applied Sciences](https://www.windesheim.nl/) for the [REDUCEDHEATCARB research project](https://edu.nl/gutuc). The research is conducted in collaboration with [BDR Thermea](https://www.bdrthermeagroup.com/), the parent company of [Remeha](https://www.remeha.nl/).
+The NeedForHeat app is developed by the [Energy Transition Research Group](https://www.windesheim.nl/onderzoek/lectoraten/energietransitie) at [Windesheim University of Applied Sciences](https://www.windesheim.nl/) for the [REDUCEDHEATCARB research project](https://edu.nl/gutuc).
 
 ## Colophon
 
