@@ -1,8 +1,11 @@
-# Building-profile - FAQ
-Frequently asked information about the WeatherInterpolationLocation EnergyQuery.
+# Building Energy Profile - FAQ
+Frequently asked information about the Building Energy Profile EnergyQuery.
 
-## 1. Lorem ipsum dolor sit amet
-Consectetur adipiscing elit. Duis convallis metus at lacus lacinia, at vehicula felis condimentum. Suspendisse suscipit condimentum sem et pellentesque. Fusce non luctus nibh. Nunc in luctus enim. Aenean dapibus luctus augue ut volutpat. Aenean congue sodales quam non scelerisque. Praesent et felis non odio fringilla ullamcorper. Nunc tortor dui, facilisis ac lobortis id, finibus eu magna. Phasellus ut lorem laoreet, posuere nulla non, fermentum elit. Quisque euismod maximus lorem. Sed consequat placerat molestie. Vestibulum molestie neque nec ligula consectetur, sit amet aliquam augue porttitor. Nulla a nisl sapien. Proin elementum aliquet convallis.
+## 1. What is this query used for?
+This query aims to ask the user for their home address so the app can fetch important data and calculate key metrics like efficiency and energy loss. Your address will not be part of the data sent to the server. Only the calculated data will be sent due to privacy reasons.
 
-## What if I have other questions or comments?
+## 2. Monitoring
+After the EnergyQuery is sent, you don't need to do anything further. There is no monitoring like other DataSources, it will just appear in the list as "Finished."
+
+## 3. What if I have other questions or comments?
 Then, please send an email to the helpdesk of the NeedForHeat research at [needforheatresearch@windesheim.nl](needforheatresearch@windesheim.nl).
