@@ -1,11 +1,16 @@
-# Where do you live? (Weather zones) - FAQ
-Frequently asked information about the WeatherInterpolationLocation EnergyQuery.
+# Home Location (Weather Zone) - FAQ
 
-## 1. What is this query used for?
-This query is used to place users in weather zones and only send that weather zone to the server so we can obtain weather data for their area. By only using zones, we ensure that we do not store the user's home location in our backend.
+Frequently asked questions.
+
+## 1. Why am I being asked this?
+This question asks you to provide your home location so the app can assign your residence to one of the hexagonal weather zones. This helps accurately calculate the weather at your location using data from nearby KNMI weather stations. Your exact location will not be sent to the server; only the weather zone is sent to ensure privacy.
 
 ## 2. Monitoring
-After the EnergyQuery is sent, you don't need to do anything further. You can view the sent Weather Zone by clicking on the "Where do you live? (regarding weather zones)" EnergyQuery in the resources list.
 
-## 3. What if I have other questions or comments?
-Then, please send an email to the helpdesk of the NeedForHeat research at [needforheatresearch@windesheim.nl](needforheatresearch@windesheim.nl).
+After answering the question, you don't need to do anything further. There is no monitoring as with other data sources; the question simply appears in the list as activated. 
+## 3. Can I change my answer?
+You cannot change a submitted answer. If you need to do so, see point 4.
+
+## 4. What if I have other questions or comments?
+Send an email to the NeedForHeat research helpdesk at [needforheatonderzoek@windesheim.nl](mailto:needforheatonderzoek@windesheim.nl).
+
