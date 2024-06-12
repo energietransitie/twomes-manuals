@@ -1,24 +1,28 @@
-# Over NeedForHeat
+# Over NeedForHeat GearUp
 
-De NeedForHeat app is ontwikkeld door het [lectoraat Energietransitie](https://www.windesheim.nl/onderzoek/lectoraten/energietransitie) van [hogeschool Windesheim](https://www.windesheim.nl/) voor het [onderzoeksproject REDUCEDHEATCARB](https://edu.nl/gutuc). Het onderzoek wordt uitgevoerd in samenwerking met [BDR Thermea](https://www.bdrthermeagroup.com/), moedermaatschappij van o.a. [Remeha](https://www.remeha.nl/).
+De NeedForHeat GearUp app is ontwikkeld door het [lectoraat Energietransitie](https://www.windesheim.nl/onderzoek/lectoraten/energietransitie) van [hogeschool Windesheim](https://www.windesheim.nl/) voor het [onderzoeksproject REDUCEDHEATCARB](https://edu.nl/gutuc). Het onderzoek wordt uitgevoerd in samenwerking met [BDR Thermea](https://www.bdrthermeagroup.com/), moedermaatschappij van o.a. [Remeha](https://www.remeha.nl/).
 
 ## Colofon
 
 Product owners:
 
-- Nick van Ravenzwaaij - [@n-vr](https://github.com/n-vr)
 - Henri ter Hofte - [@henriterhofte](https://github.com/henriterhofte) - Twitter [@HeNRGi](https://twitter.com/HeNRGi)
+- (Voormalig) Nick van Ravenzwaaij - [@n-vr](https://github.com/n-vr)
 
 Deze versie van de NeedForHeat app is mede tot stand gekomen dankzij het werk van:
+
+* Harris Mesic - [@Labhatorian](https://github.com/Labhatorian)
+* Niels Even - [@Niels995](https://github.com/Niels995)
+* Thomas Buijs - [@ThomasBuh](https://github.com/ThomasBuh)
+* Meriyem Bilgili - [@MeriyemBilgili](https://github.com/MeriyemBilgili)
+
+Dank gaat ook uit naar de ontwikkelaars van NeedForHeat en WarmteWachter, de voorloper van deze app:
 
 * Jort Driegen · [@jortdr](https://github.com/jortdr)
 * Nick Koster · [@NormalNickYT](https://github.com/NormalNickYT)
 * Robin Leuninge · [@RobinLeuninge](https://github.com/orgs/energietransitie/people/RobinLeuninge)
 * Thomas van Meer · [@CodingMoonMan](https://github.com/orgs/energietransitie/people/CodingMoonMan)
 * Tristan Jansen · [@Tristan611](https://github.com/Tristan611)
-
-Dank gaat ook uit naar de ontwikkelaars van NeedForHeat en WarmteWachter, de voorloper van deze app:
-
 * Amicia Smit · [@AmiciaSmit](https://github.com/AmiciaSmit)
 * Brian Hoen - [@lordpalf123](https://github.com/lordpalf123)
 * Jesse Brand - [@jessuhh](https://github.com/Jessuhh)
@@ -57,7 +61,7 @@ Andere onderdelen van de firmware, hardware en backend van het meetsysteem zijn 
 
 ## Licenties, condities en disclaimers
 
-De [broncode van de NeedForHeat app](https://github.com/energietransitie/twomes-app-needforheat) is beschikbaar onder een [Apache 2.0 licentie](https://github.com/energietransitie/twomes-app-needforheat/blob/main/LICENSE).
+De [broncode van de NeedForHeat app](https://github.com/energietransitie/needforheat-gearup-app) is beschikbaar onder een [Apache 2.0 licentie](https://github.com/energietransitie/needforheat-gearup-app/blob/main/LICENSE).
 
-Ook de [software van ondersteunende systemen](https://github.com/energietransitie/twomes-backoffice-api), [firmware](https://github.com/energietransitie#firmware-for-measurement-devices) en [hardware ontwerpen](https://github.com/energietransitie#open-hardware-for-measurement-devices) van meetapparaten en meer zijn beschikbaar onder een open source of open hardware licentie [via de GitHub repositories van het lectoraat Energietransitie](https://github.com/energietransitie).
+De software van ondersteunende systemen, firmware en hardwareontwerpen van meetapparatuur en meer zijn ook beschikbaar onder een open source- of open hardware-licentie [via de GitHub repositories van het lectoraat Energietransitie](https://github.com/energietransitie).
 
