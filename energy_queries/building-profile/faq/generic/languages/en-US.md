@@ -1,11 +1,13 @@
-# Building Energy Profile - FAQ
-Frequently asked information about the Building Energy Profile EnergyQuery.
+# Home Address (Energy Profile) - FAQ
 
-## 1. What is this query used for?
-This query aims to ask the user for their home address so the app can fetch important data and calculate key metrics like efficiency and energy loss. Your address will not be part of the data sent to the server. Only the calculated data will be sent due to privacy reasons.
+Frequently Asked Questions.
 
-## 2. Monitoring
-After the EnergyQuery is sent, you don't need to do anything further. There is no monitoring like other DataSources, it will just appear in the list as "Finished."
+## 1. Why do I get this question?
+This app asks for your home address so it can download information about your home from public registers. This data is used to estimate various energy characteristics of your home and installation. Your address is not sent to the server for privacy reasons; only the estimates are sent.
+
+## 2. Can I change my answer?
+Once you've submitted an answer, you can't modify it. If necessary, refer to point 3 for further assistance.
 
 ## 3. What if I have other questions or comments?
-Then, please send an email to the helpdesk of the NeedForHeat research at [needforheatresearch@windesheim.nl](needforheatresearch@windesheim.nl).
+Please send an email to the NeedForHeat research helpdesk at [needforheatonderzoek@windesheim.nl](mailto:needforheatonderzoek@windesheim.nl).
+

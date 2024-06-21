@@ -1,24 +1,12 @@
-# Where do you live? (Weather zones)
+# Home Location (Weather Zone)
+
 ![WeatherInterpolationLocation Welcome Screen](../assets/weatherinterpolationlocation.png)
 
-# About the "Where do you live? (Weather zones)" EnergyQuery
-This specific EnergyQuery, called "Where do you live? (Weather zones)", aims to ask the user for their home location so they can be categorized into weather zones. The process involves three steps.
+You will soon be asked to provide the location of your home so the app can assign your residence to one of approximately 20 hexagonal weather zones in the Netherlands. This weather zone is used to accurately calculate the weather at your location using data from nearby KNMI weather stations.
 
-There is no monitoring for this process. However, after submitting the query, you can tap on it again to review the information sent to the server.
+Here are the three steps to complete this:
 
-## What is an EnergyQuery?
-An EnergyQuery is essentially a questionnaire that assists users in providing relevant information. It asks specific questions to collect data necessary for a particular research or process. In this case, the EnergyQuery is used to place users in weather zones and only send that weather zone to the server to obtain weather data for their area, while protecting the user's privacy.
+1. *Place the marker on your house on the map:* Move and zoom in on the map until the marker is on your house. You can also press the GPS button to go directly to your current location, which is usually your home.
+2. *Confirm your weather zone:* A hexagonal zone containing your house will be displayed. Confirm if this is correct.
+3. *Send the weather zone:* The weather zone will be sent to the server. Your exact location will not be sent; only the weather zone is sent to ensure privacy.
 
-# Manual
-## Step 1: Placing the marker
-You are asked to use move the map to place a marker, which is in the middle of the screen, on top of YOUR home. \
-You can also press the GPS button to go straight to your current location, which is likely to be your home.
-
-## Step 2: Confirming the weather zone
-In the second step, a different map is displayed showing the weather zone and asking if your home is in this zone. This zone is a hexagon. You can still zoom in or move the map.
-
-If your home is not within the weather zone on the map, you can return to the first step to try again.
-
-## Step 3: Sending the weather zone
-The third step involves sending the weather zone to the server, completing the query. \
-Only the weather zone is sent to ensure privacy.

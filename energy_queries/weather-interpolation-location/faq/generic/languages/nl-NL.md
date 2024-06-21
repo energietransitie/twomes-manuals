@@ -1,11 +1,12 @@
-#  Waar woont u? (Weerzones) - FAQ
-Veelgevraagde informatie over de "Waar woont u? (ivm weerzones)" EnergyQuery
+# Woonlocatie (weerzone) - FAQ
 
-## 1. Waar wordt deze query voor gebruikt?
-Deze query wordt gebruikt om gebruikers in weerzones te plaatsen en alleen die weerzone naar de server te sturen, zodat we weergegevens voor hun gebied kunnen verkrijgen. Door alleen zones te gebruiken, zorgen we ervoor dat we de thuislocatie van de gebruiker niet opslaan in onze backend.
+Veelgestelde vragen.
 
-## 2. Monitoring
-Nadat de EnergyQuery is verzonden hoeft u verder niks meer te doen. U kunt de verzonden Weerzone terugzien door op de "Waar woont u? (ivm weerzones)" EnergyQuery te drukken in de bronnenlijst.
+## 1. Waarom krijg ik deze vraag?
+De app gebruikt de locatie van uw woning om deze in te delen in één van de ongeveer 20 zeshoekige weerzones in Nederland. Dit helpt om het weer op uw woonlocatie nauwkeurig te berekenen aan de hand van gegevens van nabijgelegen KNMI-weerstations. De exacte locatie van uw woning wordt niet naar de server verzonden; alleen de weerzone wordt verzonden om privacy te waarborgen.
+
+## 2. Kan ik het antwoord wijzigen?
+U kunt een verzonden antwoord niet meer wijzigen. Als dat toch nodig is, zie punt .
 
 ## 3. Wat als ik andere vragen of opmerkingen heb?
-Stuur dan een e-mail naar de helpdesk van het NeedForHeat-onderzoek via [needforheatonderzoek@windesheim.nl](needforheatonderzoek@windesheim.nl).
+Stuur dan een e-mail naar de helpdesk van het NeedForHeat-onderzoek via [needforheatonderzoek@windesheim.nl](mailto:needforheatonderzoek@windesheim.nl).
