@@ -1,24 +1,28 @@
-# About NeedForHeat
+# About NeedForHeat GearUp
 
-The NeedForHeat app is developed by the [Energy Transition Research Group](https://www.windesheim.nl/onderzoek/lectoraten/energietransitie) at [Windesheim University of Applied Sciences](https://www.windesheim.nl/) for the [REDUCEDHEATCARB research project](https://edu.nl/gutuc). The research is conducted in collaboration with [BDR Thermea](https://www.bdrthermeagroup.com/), the parent company of [Remeha](https://www.remeha.nl/).
+The NeedForHeat app is developed by the [Energy Transition Research Group](https://www.windesheim.nl/onderzoek/lectoraten/energietransitie) at [Windesheim University of Applied Sciences](https://www.windesheim.nl/) for the [REDUCEDHEATCARB research project](https://edu.nl/gutuc).
 
 ## Colophon
 
 Product owners:
 
-- Nick van Ravenzwaaij - [@n-vr](https://github.com/n-vr)
 - Henri ter Hofte - [@henriterhofte](https://github.com/henriterhofte) - Twitter [@HeNRGi](https://twitter.com/HeNRGi)
+- (Formely) Nick van Ravenzwaaij - [@n-vr](https://github.com/n-vr)
 
 This version of the NeedForHeat app was created with the help of:
+
+* Harris Mesic - [@Labhatorian](https://github.com/Labhatorian)
+* Niels Even - [@Niels995](https://github.com/Niels995)
+* Thomas Buijs - [@ThomasBuh](https://github.com/ThomasBuh)
+* Meriyem Bilgili - [@MeriyemBilgili](https://github.com/MeriyemBilgili)
+
+Thanks also go to the developers of previous versions of NeedForHeat and WarmteWachter, the predecessor of this app:
 
 * Jort Driegen · [@jortdr](https://github.com/jortdr)
 * Nick Koster · [@NormalNickYT](https://github.com/NormalNickYT)
 * Robin Leuninge · [@RobinLeuninge](https://github.com/orgs/energietransitie/people/RobinLeuninge)
 * Thomas van Meer · [@CodingMoonMan](https://github.com/orgs/energietransitie/people/CodingMoonMan)
 * Tristan Jansen · [@Tristan611](https://github.com/Tristan611)
-
-Thanks also go to the developers of previous versions of NeedForHeat and WarmteWachter, the predecessor of this app:
-
 * Amicia Smit · [@AmiciaSmit](https://github.com/AmiciaSmit)
 * Brian Hoen - [@lordpalf123](https://github.com/lordpalf123)
 * Jesse Brand - [@jessuhh](https://github.com/Jessuhh)
@@ -56,7 +60,7 @@ Other components of the firmware, hardware, and backend of the measurement syste
 
 ## Licenses, Terms, and Disclaimers
 
-The [source code of the NeedForHeat app](https://github.com/energietransitie/twomes-app-needforheat) is available under an [Apache 2.0 license](https://github.com/energietransitie/twomes-app-needforheat/blob/main/LICENSE).
+The [source code of the NeedForHeat GearUp app](https://github.com/energietransitie/needforheat-gearup-app) is available under an [Apache 2.0 license](https://github.com/energietransitie/needforheat-gearup-app/blob/main/LICENSE).
 
 The software of supporting systems, firmware, and hardware designs of measurement devices and more are also available under an open source or open hardware license [via the GitHub repositories of the Energy Transition Research Group](https://github.com/energietransitie).
 egit

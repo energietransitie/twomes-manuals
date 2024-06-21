@@ -2,7 +2,7 @@
 
 ## Samenvatting
 
-versie 23 november 2023
+Versie 23 november 2023
 
 [→ korte samenvatting](../../privacy/)
 
